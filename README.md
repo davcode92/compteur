@@ -6,8 +6,10 @@ l'objectif était de maitriser "Redux".
 -Redux n'est pas lié à React,il peut être utilisé avec Angular...
 -Redux stocke et gère l'état de votre application.
 -Grace à Redux, toutes les transitions d'état sont explicites et il est possible de les suivre,le changement d'état de votre application devient prévisible.
-![Capture d’écran (160)](https://github.com/davcode92/compteur/assets/146979485/56ca36f8-35d3-43de-9412-1e3371de4c57)
 
 𝗩𝗼𝘂𝘀 𝗽𝗼𝘂𝘃𝗲𝘇 𝘁𝗲𝘀𝘁𝗲𝗿 𝗹'𝗔𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻 𝗶𝗰𝗶:
               👇🏿
 https://davcode92.github.io/compteur/
+![Capture d’écran (160)](https://github.com/davcode92/compteur/assets/146979485/56ca36f8-35d3-43de-9412-1e3371de4c57)
+
+
