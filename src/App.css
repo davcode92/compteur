@@ -1,6 +1,44 @@
 .App {
   text-align: center;
+  
 }
+
+.vert {
+  padding: 1vw 2vw;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  background-color: green;
+}
+
+.rouge {
+  padding: 1vw 2vw;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  background-color: red;
+}
+
+.noir {
+  padding: 0.5vw 0.5vw;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  background-color: black;
+}
+
+
+footer {
+  background-color: black;
+  text-align: center;
+  margin-top: auto;
+  color: white;
+  padding: 50px;
+}
+
+
+
+
 
 .App-logo {
   height: 40vmin;
